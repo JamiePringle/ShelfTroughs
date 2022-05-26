@@ -1,0 +1,1 @@
+The files Figure03_varying_f.csv and Figure03_varying_r.csv contains the data for the two curves shown in figure 03. 
