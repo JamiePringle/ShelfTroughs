@@ -1,0 +1,3 @@
+To reproduce these figures, run model code as described in README_main.txt with whichloop=9 and troughamount set to 1 or 0 (for 1 or no canyon respectively) in Psi_solve.py. Then run Psi_analysis.py and say yes to all plot options, and enter 22% for fraction ejected offshore.
+
+Figure 6 is as above, but set troughamount to 2.
