@@ -96,3 +96,13 @@ options are what is desired, and then the analysis script is run.
 25) Also remember that the background ATW offshore ejection value found in a trough-
 less shelf is entered manually for cases with a trough: 22%. This number should be input anytime a trough run is being analyzed. This can be determined by doing a run without a trough.
 
+
+
+
+
+
+
+
+
+
+
